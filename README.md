@@ -22,7 +22,6 @@ I'm very much open to opportunities and collaborating on various projects, if yo
 click<a href="mailto:cade828@gmail.com"> here </a>to get in contact!
 
 
-[![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=cade-coleman)](https://github.com/cade-coleman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cade-coleman&layout=compact)](https://github.com/cade-coleman/github-readme-stats)
+[![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=cade-coleman)](https://github.com/cade-coleman/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cade-coleman&layout=compact)](https://github.com/cade-coleman/github-readme-stats)
 
 
