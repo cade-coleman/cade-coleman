@@ -1,7 +1,8 @@
-### Welcome to my Githup!!😄
+## :man_technologist: About me,
 
-My name is Cade, I just finished up a fullstack bootcamp. This is where I'm keeping most of my stuff.
+My name is Cade, I'm a full stack developer who is currently located in Washington.
 
+Even though my most comfortable language is Javascript with node.js 🌱 I’m currently learning AI and ML with Python
 
 
 [![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=cade-coleman)](https://github.com/cade-coleman/github-readme-stats)
@@ -9,7 +10,7 @@ My name is Cade, I just finished up a fullstack bootcamp. This is where I'm keep
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cade-coleman)](https://github.com/cade-coleman/github-readme-stats)
 
-Even though my most comfortable language is Javascript with node.js 🌱 I’m currently learning AI and ML with Python
+
 <!--
 **cade-coleman/cade-coleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
