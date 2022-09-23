@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is Cade Coleman.
-I am currently enrolled in a full stack coding boot camp and am aiming at a full time career in tech.
-I love learning, problem solving, and working with others to solve problems that seem difficult on the outside looking in.
+Welcome to my Githup!!😄
+
+
+[![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=cade-coleman)](https://github.com/cade-coleman/github-readme-stats)
+Even though my most comfortable language is Javascript with node.js 🌱 I’m currently learning AI and ML with Python
 <!--
 **cade-coleman/cade-coleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
