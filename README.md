@@ -15,7 +15,11 @@
 
 My name is Cade, I'm a full stack developer who is currently located in Washington.
 
-Even though my most comfortable language is Javascript with node.js 🌱 I’m currently learning AI and ML with Python
+Currently I am strongest on the front end, but I am working and want to be comfortable and confident in my ability on the back end as well.  Keep up with me as I beggin working in Python and C# to supplement what I currently know of Javascript and node.js.
+
+I'm very much open to opportunities and collaborating on various projects, if you want to get connected reach out to my email below!
+
+click<a href="mailto:cade828@gmail.com"> here </a>to get in contact!
 
 
 [![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=cade-coleman)](https://github.com/cade-coleman/github-readme-stats)
