@@ -15,7 +15,7 @@
 
 My name is Cade, I'm a full stack developer who is currently located in Washington.
 
-Currently I am strongest on the front end, but I am working and want to be comfortable and confident in my ability on the back end as well.  Keep up with me as I beggin working in Python and C# to supplement what I currently know of Javascript and node.js.
+Currently I am strongest on the front end, but I am working and want to be comfortable and confident in my ability on the back end as well. Currently I'm focusing on building my skills in javascript and typescript.
 
 I'm very much open to opportunities and collaborating on various projects, if you want to get connected reach out to my email below!
 
